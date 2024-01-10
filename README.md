@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Uriel Garcia Bautista</h1>
 <h3 align="center">I am a student of the Bachelor's Degree in Computing at the Benito Juárez Autonomous University of Oaxaca</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uriel-gb&label=Profile%20views&color=0e75b6&style=flat" alt="uriel-gb" /> </p>
+
 - 🌱 I’m currently learning **Java and JavaScript**
 
 - 💬 Ask me about **Anime**
