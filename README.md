@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uriel Garcia Bautista</h1>
 <h3 align="center">I am a student of the Bachelor's Degree in Computing at the Benito Juárez Autonomous University of Oaxaca</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uriel-gb&label=Profile%20views&color=0e75b6&style=flat" alt="uriel-gb" /> </p>
-
 - 🌱 I’m currently learning **Java and JavaScript**
 
 - 💬 Ask me about **Anime**
