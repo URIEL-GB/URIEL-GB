@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Uriel Garcia Bautista</h1>
 <h3 align="center">I am a student of the Bachelor's Degree in Computing at the Benito Juárez Autonomous University of Oaxaca</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
 - 🌱 I’m currently learning **Java and JavaScript**
 
 - 💬 Ask me about **Anime**
